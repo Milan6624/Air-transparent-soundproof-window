@@ -84,9 +84,5 @@ The optimized frequency-selective resonant design was experimentally evaluated u
 - **Acoustic Modelling** — Transmission loss prediction
 - **Experimental Testing** — Insertion loss validation
 
----
 
 
-    ├── TL_Results.png
-    ├── Pareto_Front.png
-    └── Experimental_Results.png
