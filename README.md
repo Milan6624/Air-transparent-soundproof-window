@@ -6,7 +6,7 @@ This study presents the design, optimization, numerical modelling, and experimen
 
 The study investigates resonant metasurface-inspired unit-cell configurations using ANSYS and combines analytical validation, numerical simulation, machine learning, multi-objective optimization, and experimental testing.
 
-<hr style="height:1px;border:none;background-color:#d0d0d0;">
+<hr style="height:1px;border:none;background-color:#000000;">
 
 ## Objectives
 
